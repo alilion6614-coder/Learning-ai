@@ -1,0 +1,6 @@
+{
+  "name": "Learning AI",
+  "description": "A premium, futuristic AI-powered SaaS for high-performance learning and productivity. Features AI notes, flashcards, and interactive chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
